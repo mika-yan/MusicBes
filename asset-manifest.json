@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/service.v1.0.1/static/js/main.a2c6074d.chunk.js",
-    "main.js.map": "/service.v1.0.1/static/js/main.a2c6074d.chunk.js.map",
-    "runtime-main.js": "/service.v1.0.1/static/js/runtime-main.216f619b.js",
-    "runtime-main.js.map": "/service.v1.0.1/static/js/runtime-main.216f619b.js.map",
-    "static/css/2.abebce0a.chunk.css": "/service.v1.0.1/static/css/2.abebce0a.chunk.css",
-    "static/js/2.f41cfa66.chunk.js": "/service.v1.0.1/static/js/2.f41cfa66.chunk.js",
-    "static/js/2.f41cfa66.chunk.js.map": "/service.v1.0.1/static/js/2.f41cfa66.chunk.js.map",
-    "index.html": "/service.v1.0.1/index.html",
-    "precache-manifest.c84dc96037d2b20080001b346517cada.js": "/service.v1.0.1/precache-manifest.c84dc96037d2b20080001b346517cada.js",
-    "service-worker.js": "/service.v1.0.1/service-worker.js",
-    "static/css/2.abebce0a.chunk.css.map": "/service.v1.0.1/static/css/2.abebce0a.chunk.css.map",
-    "static/js/2.f41cfa66.chunk.js.LICENSE.txt": "/service.v1.0.1/static/js/2.f41cfa66.chunk.js.LICENSE.txt"
+    "main.js": "//mika-yan.github.io/MusicBes/static/js/main.a2c6074d.chunk.js",
+    "main.js.map": "//mika-yan.github.io/MusicBes/static/js/main.a2c6074d.chunk.js.map",
+    "runtime-main.js": "//mika-yan.github.io/MusicBes/static/js/runtime-main.27c70c99.js",
+    "runtime-main.js.map": "//mika-yan.github.io/MusicBes/static/js/runtime-main.27c70c99.js.map",
+    "static/css/2.abebce0a.chunk.css": "//mika-yan.github.io/MusicBes/static/css/2.abebce0a.chunk.css",
+    "static/js/2.f41cfa66.chunk.js": "//mika-yan.github.io/MusicBes/static/js/2.f41cfa66.chunk.js",
+    "static/js/2.f41cfa66.chunk.js.map": "//mika-yan.github.io/MusicBes/static/js/2.f41cfa66.chunk.js.map",
+    "index.html": "//mika-yan.github.io/MusicBes/index.html",
+    "precache-manifest.358d0a4066f166138c3cf92521f960d3.js": "//mika-yan.github.io/MusicBes/precache-manifest.358d0a4066f166138c3cf92521f960d3.js",
+    "service-worker.js": "//mika-yan.github.io/MusicBes/service-worker.js",
+    "static/css/2.abebce0a.chunk.css.map": "//mika-yan.github.io/MusicBes/static/css/2.abebce0a.chunk.css.map",
+    "static/js/2.f41cfa66.chunk.js.LICENSE.txt": "//mika-yan.github.io/MusicBes/static/js/2.f41cfa66.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.216f619b.js",
+    "static/js/runtime-main.27c70c99.js",
     "static/css/2.abebce0a.chunk.css",
     "static/js/2.f41cfa66.chunk.js",
     "static/js/main.a2c6074d.chunk.js"
